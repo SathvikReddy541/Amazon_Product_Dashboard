@@ -3,6 +3,7 @@
 An interactive Power BI dashboard designed to analyze Amazon product data—focusing on price trends, customer reviews, ratings, product categories, and sales performance to assist e-commerce strategists, sellers, and analysts in making informed decisions.
 
 🎯 Short Description / Purpose
+
 This Amazon Product Analytics Dashboard offers a comprehensive view of product performance on the Amazon marketplace. It enables users to explore sales patterns, category-level performance, and consumer behavior through ratings and reviews—providing valuable insights for marketing, pricing, and inventory strategies.
 
 ⚙️ Tech Stack
@@ -24,17 +25,11 @@ Source: Simulated Amazon product data (structured CSV or Excel format for import
 The dataset includes:
 
 Product Name
-
 Category/Subcategory
-
 Price
-
 Rating (1–5 scale)
-
 Number of Reviews
-
 Estimated Sales
-
 Date of Record
 
 Note: This dashboard was designed to accept a structured dataset with the above fields and may require minor adjustments for use with other Amazon datasets.
@@ -108,4 +103,4 @@ Searchable table listing each product with all major metrics (price, rating, sal
 
 🖼️ Screenshots / Demos
 Include dashboard screenshots or a demo GIF here (upload separately in your GitHub repo’s assets/ folder). Example sections to screenshot:
- ![Dashboard preview](https://github.com/SathvikReddy541/Amazon_Product_Dashboard/blob/main/Amazon_product_Dashboard.pbit)
+ ![Dashboard preview](https://github.com/SathvikReddy541/Amazon_Product_Dashboard/blob/main/Amazon%20Dashboard%20Snippet.png)
