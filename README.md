@@ -40,7 +40,8 @@ Date of Record
 Note: This dashboard was designed to accept a structured dataset with the above fields and may require minor adjustments for use with other Amazon datasets.
 
 🔍 Features / Highlights
-• Business Problem
+
+• Business Problem : 
 E-commerce platforms like Amazon generate vast amounts of product and customer interaction data. Sellers and analysts often struggle to derive actionable insights from this volume without a well-designed tool.
 
 Questions like:
@@ -52,7 +53,7 @@ How does pricing correlate with ratings?
 What categories are underperforming?
 ...are hard to answer without visual exploration.
 
-• Goal of the Dashboard
+• Goal of the Dashboard : 
 To create an intuitive and insightful dashboard that:
 
 Allows exploration of Amazon product data by category, price, and performance.
@@ -61,7 +62,7 @@ Supports strategic product decisions like pricing, inventory forecasting, and ad
 
 Identifies market trends and customer sentiment using product ratings and reviews.
 
-• Walkthrough of Key Visuals
+• Walkthrough of Key Visuals : 
 📊 KPIs Card Panel
 
 Total Products Listed
@@ -96,7 +97,7 @@ Line chart to track estimated sales across months or weeks.
 
 Searchable table listing each product with all major metrics (price, rating, sales, category).
 
-• Business Impact & Insights
+• Business Impact & Insights :
 📈 Pricing Strategy Optimization: Understand ideal price points per category.
 
 👥 Customer Behavior Insights: Learn what drives higher ratings and reviews.
@@ -107,4 +108,4 @@ Searchable table listing each product with all major metrics (price, rating, sal
 
 🖼️ Screenshots / Demos
 Include dashboard screenshots or a demo GIF here (upload separately in your GitHub repo’s assets/ folder). Example sections to screenshot:
- ![Dashboard preview](
+ ![Dashboard preview](https://github.com/SathvikReddy541/Amazon_Product_Dashboard/blob/main/Amazon_product_Dashboard.pbit)
